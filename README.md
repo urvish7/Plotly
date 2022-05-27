@@ -26,3 +26,11 @@
 
 ## Deliverable 4: Customize the Dashboard
 
+This project is on the website please [Click here](https://urvish7.github.io/Plotly/) to check out the amazing work.
+
+The major change done on the website is :
+ - back ground image
+ - Fonts
+ - the website is responsive
+ 
+
