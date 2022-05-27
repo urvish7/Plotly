@@ -1,7 +1,7 @@
 body {
 
-    color: #ffffff;
-    background-color: rgb(14, 13, 13);
+    color: aliceblue;
+    background-color: rgb(237, 226, 226);
   }
  
  .tag {
@@ -9,9 +9,7 @@ body {
      font-size: 1rem;
     }  
 
- .row {
-   color: #000000;
- }
+ 
 .jumbotron {
     background-image: url("../images/bacteria.jpg");
     background-size: 100% 100%;
